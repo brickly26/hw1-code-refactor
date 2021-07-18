@@ -12,3 +12,6 @@ changed title to a more descriptive title.
 
 changed heading tags so that they are in chronological order. 
 
+https://brickly26.github.io/hw1-code-refactor/
+
+![Horiseon Homepage](./Assets/images/webpagephoto.png)
